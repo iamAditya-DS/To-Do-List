@@ -18,8 +18,6 @@ A simple, stylish, and functional To-Do list web application built with Python a
 
 ## 🚀 Live Demo
 
-**(Add this section after you successfully deploy your app)**
-
 You can try the live application here:
 
 [To-Do List: Demo](https://to-do-list-final-pdpi.onrender.com)
@@ -32,6 +30,6 @@ You can try the live application here:
 * **Framework:** Flask
 * **Frontend:** HTML, CSS, JavaScript
 * **WSGI Server (for deployment):** Gunicorn
-* **Deployment Platform (Example):** Render
+* **Deployment Platform:** Render
 
 ---
